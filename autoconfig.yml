@@ -59,3 +59,5 @@ settings:
     global: https://start.duckduckgo.com/
   url.start_pages:
     global: https://start.duckduckgo.com
+  zoom.default:
+    global: 125%
